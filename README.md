@@ -1,6 +1,5 @@
 # Potato--Plant-Disease-Classification
 
-# Plant Disease Classification using TensorFlow
 
 ## Project Overview
 
